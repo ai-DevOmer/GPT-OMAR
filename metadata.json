@@ -1,0 +1,8 @@
+{
+  "name": "OMAR AI PRO - منصة الذكاء المتكاملة",
+  "description": "منصة ذكاء اصطناعي احترافية مدعومة بـ Gemini 3 Pro، متخصصة في التفكير العميق، البحث، وحل المسائل العلمية والرياضية بدقة كاملة.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
